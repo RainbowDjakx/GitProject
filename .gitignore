@@ -1,0 +1,9 @@
+Intermediate/*
+Saved/*
+DerivedDataCache/*
+
+plugin/**/Intermediate/*
+Build/*
+!Build/**/*.ico
+
+*_BuildData.ueaset
